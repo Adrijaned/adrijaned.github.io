@@ -1,0 +1,111 @@
+body { background-color: #D8D5CB; }
+body.test-menu { margin-top:70px; }
+a { color:#00a8c6; }
+
+.container { background:#FFF; }
+.page-header { margin-top:20px; }
+div.bulletspacer { background: url(/images/bullet-spacer.png) repeat-x;width:50%;height:8px;margin:3em auto; }
+#onempty { display:none; }
+#onemptyclass { display:none; }
+
+#head { background-color: #FFF;padding:1em 1em .5em 1em; }
+#logo img { height:35px; }
+#footer { background-color: #FFF;padding:1em; }
+
+#test-menu li a, #menu li a { color:#FFF; }
+#menu .dropdown-menu li a { color:#333; }
+#test-menu li.active a, #menu li.active a { color:#FFF;	background-color:#00a8c6;background-image: -webkit-linear-gradient(top,#8dc103 0,#8dc103 100%);background-image: -o-linear-gradient(top,#8dc103 0,#8dc103 100%);background-image: -webkit-gradient(linear,left top,left bottom,from(#8dc103),to(#8dc103));background-image: linear-gradient(to bottom,#8dc103 0,#8dc103 100%); }
+#test-menu, #menu {  background-image: -webkit-linear-gradient(top,#22c8f6 0,#00a8c6 100%);background-image: -o-linear-gradient(top,#22c8f6 0,#00a8c6 100%);background-image: -webkit-gradient(linear,left top,left bottom,from(#22c8f6),to(#00a8c6));background-image: linear-gradient(to bottom,#22c8f6 0,#00a8c6 100%); }
+#test-menu .container, #menu .container { background-color:transparent; }
+#test-menu { margin-bottom:120px; }
+
+
+.btn-primary { color: #fff;background-color: #00a8c6;border-color: #7ECEED; }
+.btn-primary:hover { color: #fff;background-color: #7ECEED;border-color: #7ECEED; }
+.navbar-default .navbar-text { color:#E7E7E7; }
+.list-group-item.active a { color:#FFF; }
+
+table.table-ui tbody tr:hover { cursor:pointer; }
+.form-horizontal .kform_note { padding:0 15px;color:#999; }
+.form-horizontal label sup  { color:#A00;vertical-align:bottom;padding:0 .2em 0 0;font-weight:bold;font-size:1.3em; }
+
+#test-progress { background-color: #8dc103; height:5px;}
+
+table.table tr.clickable-row { cursor:pointer; }
+table.table tr.clickable-row td { color:#00a8c6; }
+
+
+
+
+#test { }
+#test .test_otazka { margin-bottom:1em; }
+#test .test_otazka .kategorie { float: right; }
+#test .test_otazka h4 { float: left; }
+#test .test_otazka .list-group-item input { float: left;margin-right:15px; }
+#test .test_otazka .list-group-item div.odpoved { float: left; }
+
+#test .test-otazka-volba ul.list-group li.list-group-item { border:2px solid transparent; }
+#test .test-otazka-volba ul.list-group li.list-group-item-success { font-weight: bold; }
+#test .test-otazka-volba ul.list-group li.list-group-item-danger { font-weight: bold; }
+#test .test-otazka-volba ul.list-group li.list-group-item-warning { font-weight: bold; }
+#test .test-otazka-volba ul.list-group li.checked { border:2px dotted #D7D7D7;border-radius: 8px;font-weight:bold; }
+#test .test-otazka-volba ul.horizontal li.list-group-item { float:left; }
+#test .test-otazka-propojeni table.table { width:auto; }
+#test .test-otazka-propojeni table.table td { border:0; }
+#test .test-otazka-doplneni { margin-bottom:1em; }
+#test .test-otazka-doplneni .pod_good { color:#3c763d;background-color:#dff0d8;padding:.4em .8em;font-weight: bold; }
+#test .test-otazka-doplneni .pod_wrong { color:#a94442;background-color:#f2dede;padding:.4em .8em;font-weight: bold; }
+#test .test-otazka-doplneni input { font-weight: bold; }
+
+#test .test-otazka-preklad input { width:99%;padding:.2em .3em; }
+#test .test-otazka-preklad textarea { width:99%;padding:.2em .3em;height:7em; }
+#test .test-otazka-preklad div { padding:.8em 1em; }
+#test .test-otazka-soubor progress { 
+-webkit-appearance: none;
+-moz-appearance: none;
+appearance: none;
+height:30px;width:33%; }
+#test .test-otazka-soubor .test-form-delete-button { display: none; }
+#test .test-otazka-soubor h3 small { color:white; }
+
+#test-form-upload { display: none; }
+
+body#public { background-color:#FFF; }
+#header-top { background:url(/images/topheader-back.png) no-repeat right;height:141px;padding-top:20px; }
+#header-top .container { background-color: transparent; }
+#header-top a { color:#999; }
+#header-top a.btn { color:#FFF; }
+#header-top input { float:left;width:195px; }
+#header-new { background:url(/images/header-new-back.png) repeat-x;height:322px;margin-bottom:4em; }
+#header-new .container { padding-top:0;background-color: transparent; }
+#header-new #bigicon { background:url(/images/bigicon.png) no-repeat;height:304px;margin-top:20px; }
+#content-new { color:#999; }
+#content-new h2 { color:#b5d600;font-size:3em;font-family: "Tahoma CE", "Arial CE", "Helvetica CE", Tahoma, Arial, lucida, sans-serif;
+font-weight: normal;line-height:1.2em;text-transform: uppercase;margin-top:0; }
+#content-new h2.blue { color:#b5d600;font-size:3em;font-family:"Times New Roman", Times, serif;text-align:center;color:#1da8c4;font-weight:normal;text-shadow: 0px -1px #666;text-transform: none; }
+
+ul#promolist { list-style-type:none; list-style-image: 0;margin-top:35px;}
+ul#promolist li { padding:0.1em 0 0.1em 50px;color:white;font-family:"Times New Roman", Times, serif;text-shadow: 0px -2px #666;font-size:1.8em;line-height: 1.2em; }
+ul#promolist li span { color:#D0F600;text-shadow: 2px 0px #C7C7C7; }
+
+#footer-new { background:url(/images/footer-new-back.png) repeat-x #3B3B3B;color:#FFF;font-family:"Times New Roman", Times, serif;margin-top:30px;padding-top:20px; }
+#footer-new .container { background-color: transparent; }
+#footer-new .gray { color:#999; }
+#footer-new h3 { font-family:"Times New Roman", Times, serif;color:#FFF; }
+
+#vyhody { background:url(/images/vyhody-back.jpg) repeat-x;height:496px;margin:4em 0;padding:50px 0px; }
+#vyhody .container { background-color: transparent; }
+#vyhody h2 { color:#b5d600;font-size:3em;font-family:"Times New Roman", Times, serif;text-align:center;color:#1da8c4;font-weight:normal;text-shadow: 0px -1px #666; }
+#vyhody ul#promolist li { line-height: 1.4em;padding:0.3em 0 0.3em 50px;font-size:1.4em;text-shadow:0 0; color:#1da8c4;font-family: "Arial CE", "Helvetica CE", Arial, helvetica, sans-serif;font-weight: normal; }
+
+@media all and (max-width: 992px) {
+#vyhody ul#promolist li { font-size:18px; }
+#vyhody h2 { font-size:18px; }
+#vyhody { margin:1em 0;padding:20px 0; }
+.text-center-sm { text-align:center; }
+}
+@media all and (max-width: 768px) {
+#vyhody ul#promolist li { font-size:12px; }
+#header-new ul#promolist li { font-size:22px; }
+.text-center-xs { text-align:center; }
+}

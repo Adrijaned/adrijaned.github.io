@@ -1,0 +1,3 @@
+var _lang = {};
+_lang['upload_photo'] = 'Nahrát fotku';
+_lang['Submit test'] = 'Odevzdat test ';
