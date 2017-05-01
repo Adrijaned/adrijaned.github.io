@@ -8,10 +8,10 @@ var img_sources = [
     'img/0.jpg',
     'img/1.jpg',
     'img/1.jpg',
-    'img/',
-    'img/',
-    'img/',
-    'img/'];
+    'img/2.jpg',
+    'img/2.jpg',
+    'img/3.jpg',
+    'img/3.jpg'];
 var paragraph_sources = [
 
     '<b>Masové jevy</b><br/>' +
