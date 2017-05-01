@@ -1,0 +1,23 @@
+body{
+    background-color: #151515;
+}
+#text_paragraph{
+    width: 800px;
+    margin: auto;
+    color: lightgoldenrodyellow;
+    text-align: center;
+}
+#my_aWeSoMe_image{
+    height: 400px;
+    margin: auto;
+    display: block;
+}
+div{
+    width: 800px;
+    margin: auto;
+    height: 50px;
+}
+.arrow{
+    height: 50px;
+    width: 50px;
+}
