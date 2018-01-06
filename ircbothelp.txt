@@ -7,6 +7,8 @@ Adrij time to go to bed   - with high enough privileges will make Adrij disconne
 Adrij time                - responds with his own local time
 Adrij timezone            - responds with timezone Adrij is currently in
 Adrij the rules           - responds with The Rules
+Adrij remember <message>  - remembers message so I can be seen it later
+
 
 Some commands may work even with small changes, like different capitalization, commas, or so,
 but it is not guaranteed. It is recommended to stick to the recommended format.
